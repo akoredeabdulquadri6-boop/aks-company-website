@@ -1,7 +1,4 @@
 
-    <defs>
-        ...
-    </defs>
 </svg>
 
 <div class="overlay">
